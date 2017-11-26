@@ -215,3 +215,17 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+it/FakeData-master/
+
+Itransition\.rar
+
+JavaGenerate/\.idea/
+
+JavaGenerate/lib/
+
+JavaGenerate/out/production/Task1/META-INF/
+
+JavaGenerate/out/
+
+RubyRegistration/\.idea/
